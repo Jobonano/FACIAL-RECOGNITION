@@ -20,7 +20,7 @@ This project implements a face recognition attendance system using OpenCV and th
 - Pickle
 - Hashlib
 - Datetime
-Note: Open a folder in same location as python file named KnownFaces and then open a folder for each face to be detected with their names.
+- Note: Open a folder in same location as python file named KnownFaces and then open a folder for each face to be detected with their names.
 Each folder will contain the pictures of faces to be encoded
 
 ## Installation
