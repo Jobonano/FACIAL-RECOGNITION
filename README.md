@@ -1,4 +1,4 @@
-# Face Recognition Attendance System (With Speech Intro)
+# Face Recognition Attendance System
 
 ## Overview
 
@@ -12,7 +12,6 @@ To run this project, you need to install the following Python packages:
 - face_recognition
 - numpy
 - pandas
-- pyttsx3
 - ultralytics
 - scikit-learn (optional, for distance calculations)
 
@@ -53,10 +52,6 @@ The `process_frame` function detects faces in each video frame, recognizes them 
 ### 6. Main Function
 
 The `main` function orchestrates video capture, processing frames in real time, and managing attendance records.
-
-### 7. Voice Interaction
-
-The `welcome_speech` function uses the `pyttsx3` library to provide audio feedback to users.
 
 ## Usage
 
